@@ -4,7 +4,7 @@ This is a simple To-do list application built with HTML, CSS, and JavaScript. It
 
 ## Files
 
-1. **todo.html**: This is the HTML file that contains the structure of the To-do list application. It includes an input field for adding tasks, a button to add tasks, and a list to display the tasks.
+1. **Todo.html**: This is the HTML file that contains the structure of the To-do list application. It includes an input field for adding tasks, a button to add tasks, and a list to display the tasks.
 
 2. **todo.css**: This is the CSS file that provides styling for the To-do list application. It defines the appearance of the input field, buttons, and list items to ensure a visually appealing user interface.
 
